@@ -14,6 +14,4 @@ _putchar(alphy);
 
 _putchar('\n');
 
-return (0);
-
 }
