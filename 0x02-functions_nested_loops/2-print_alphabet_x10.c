@@ -15,7 +15,7 @@ count = 0;
 
 while (count < 10)
 {
-for (alphy = 'a'; alphy = 'z'; alphy++)
+for (alphy = 'a'; alphy <= 'z'; alphy++)
 {
 _putchar(alphy);
 }
