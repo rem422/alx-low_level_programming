@@ -6,13 +6,14 @@
 
 void print_alphabet(void)
 {
-char az
-for (az = 'a'; az <= 'z'; az++)
+char alphy;
+for (alphy = 'a'; alphy <= 'z'; alphy++)
 {
-_putchar(az);
+_putchar(alphy);
 }
 
 _putchar('\n');
 
 return (0);
+
 }
